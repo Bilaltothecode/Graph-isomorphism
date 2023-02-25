@@ -39,6 +39,7 @@ A B C D etc..
 
 ![](Graph Isomorphism project(explaination in depth)/Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.001.png)
 
+
 Then you enter the values of graph B the same way as graph A, then it’ll calculate if the two graphs are isomorphic or not.
 
 The code first generates the graph matrix, then it will display the matrix to the user  from which it then uses a series of if/else loops to calculate if the vertex, and degrees are the same. If the degrees are the same it will sort the the two, and run the function “isomorphic” which returns us a value of 1 or 0 where if its 1 they are not isomorphic but if 0 they are isomorphic.if any of the loops fail, it’ll conclude that the graphs are not isomorphic.
