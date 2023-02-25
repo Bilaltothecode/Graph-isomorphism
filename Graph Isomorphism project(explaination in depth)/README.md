@@ -1,6 +1,5 @@
-﻿**Graph Isomorphism program Bilal Niazi, 200408168**
+﻿**Graph Isomorphism program**
 
-**April 15, 2021**
 
 **Abstract**
 
