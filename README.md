@@ -37,7 +37,7 @@ A B C D
 
 A B C D etc..
 
-![](Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.001.png)
+![](Graph Isomorphism project(explaination in depth)/Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.001.png)
 
 Then you enter the values of graph B the same way as graph A, then it’ll calculate if the two graphs are isomorphic or not.
 
@@ -45,7 +45,7 @@ The code first generates the graph matrix, then it will display the matrix to th
 
 **Five vertices**
 
-![](Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.002.jpeg)
+![](Graph Isomorphism project(explaination in depth)/Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.002.jpeg)
 
 (Mathematics | Graph Isomorphisms and Connectivity - GeeksforGeeks, 2020)
 
@@ -53,23 +53,23 @@ The code first generates the graph matrix, then it will display the matrix to th
 
 0 1 0 0 1 0 0 1 1 0 1 0 1 0 0 0 0 0 1 1 0 1 0 1 0 1 0 0 0 1 0 0 1 0 1 1 1 0 0 0 1 0 0 1 0 0 1 1 0 0
 
-![](Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.003.jpeg)
+![](Graph Isomorphism project(explaination in depth)/Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.003.jpeg)
 
 **Six Vertices (error)**
 
-![](Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.004.png)
+![](Graph Isomorphism project(explaination in depth)/Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.004.png)
 
 **(Mathematics | Graph Isomorphisms and Connectivity - GeeksforGeeks, 2020) Graph A Graph B**
 
 0 1 0 0 0 1 0 1 0 0 0 1 1 1 0 0 1 0 1 0 1 0 0 1 0 1 0 1 0 1 0 1 0 1 1 0 0 0 1 0 1 0 0 0 1 0 1 0 0 1 0 1 0 1 0 0 1 1 0 1 1 0 1 0 1 0 1 1 0 0 0 1
 
-![](Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.005.jpeg)
+![](Graph Isomorphism project(explaination in depth)/Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.005.jpeg)
 
 The reason for an error here is because the program is designed for simpler graphs, and doesn’t calculate the triangles so thus since the graphs differ in amount of triangles, it won't be isomorphic. I could not get the triangles to work for this one, the code needs some more work which I plan for during the summer.
 
 **Other examples of program Peterson(10)**
 
-![](Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.006.jpeg)
+![](Graph Isomorphism project(explaination in depth)/Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.006.jpeg)
 
 **(The Graph Isomorphism Algorithm, 2020)**
 
@@ -83,11 +83,11 @@ The reason for an error here is because the program is designed for simpler grap
 
 **0 0 0 0 1 1 0 1 0 0 1 0 1 0 1 0 0 0 0 0**
 
-![](Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.007.jpeg)
+![](Graph Isomorphism project(explaination in depth)/Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.007.jpeg)
 
 **Icosahedron graph(12)**
 
-![](Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.008.jpeg)
+![](Graph Isomorphism project(explaination in depth)/Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.008.jpeg)
 
 **(The Graph Isomorphism Algorithm, 2020)**
 
@@ -101,11 +101,11 @@ The reason for an error here is because the program is designed for simpler grap
 
 **0 0 1 1 0 1 1 1 0 0 0 0 1 1 0 0 1 0 0 0 1 1 0 0**
 
-![](Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.009.jpeg)
+![](Graph Isomorphism project(explaination in depth)/Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.009.jpeg)
 
 **Non-isomorphic example**
 
-![](Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.010.jpeg)
+![](Graph Isomorphism project(explaination in depth)/Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.010.jpeg)
 
 **Conclusion**
 
