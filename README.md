@@ -37,7 +37,7 @@ A B C D
 
 A B C D etc..
 
-![](Graph Isomorphism project(explaination in depth)/Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.001.png)
+![]([Graph Isomorphism project(explaination in depth)/Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.001.png](https://github.com/Bilaltothecode/Graph-isomorphism/blob/c28dfe3fe123c6358439f7f12bcd45703a2fd090/Graph%20Isomorphism%20project(explaination%20in%20depth)/Aspose.Words.d6a71334-7472-4665-8329-04e7a674a3c9.001.png))
 
 
 Then you enter the values of graph B the same way as graph A, then it’ll calculate if the two graphs are isomorphic or not.
